@@ -1,2 +1,3 @@
 # registar
-CSS &amp; HTML
+CSS & HTML
+GitHub live link : https://rubel1739.github.io/registar/
